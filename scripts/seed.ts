@@ -1,6 +1,6 @@
 // scripts/seed.ts
-import { db } from "../app/db";
-import { notes } from "../app/db/schema";
+import { db } from "../db";
+import { notes } from "../db/schema";
 
 async function seed() {
   console.log("🌱 Seeding database with sample notes...");

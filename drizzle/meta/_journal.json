@@ -8,6 +8,20 @@
       "when": 1786892868610,
       "tag": "0000_omniscient_ozymandias",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1786934057878,
+      "tag": "0001_talented_talon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1786934519375,
+      "tag": "0002_fantastic_goliath",
+      "breakpoints": true
     }
   ]
 }
