@@ -19,8 +19,7 @@ export default async function NotePage({ params }: NotePageProps) {
   const noteId = parseInt(id)
   
   // Get the note
-  const note = getNoteById(noteId)
-  
+  const note =await getNoteById(noteId)
   // If note doesn't exist, show 404
   if (!note) {
     notFound()
